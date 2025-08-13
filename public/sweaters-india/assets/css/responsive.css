@@ -1,0 +1,23 @@
+@media screen and (max-width:900px){
+	#logo img{
+		margin-top: 0;
+	}
+	.products img{
+		margin-bottom: 20px;
+	}
+	.certification p{
+		padding: 20px;
+	}
+	.certification img{
+		margin-bottom: 20px;
+	}
+	#mainav form select {
+		margin-top: 20px;
+	}
+	.vision h1{
+		padding: 20px;
+	}
+	.vision p{
+		padding: 20px;
+	}
+}
